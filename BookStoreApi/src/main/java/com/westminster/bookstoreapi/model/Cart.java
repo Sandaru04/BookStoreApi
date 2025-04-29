@@ -31,7 +31,7 @@ public class Cart {
         this.items.add(item);
     }
 
-    // Other getters/setters
+    // getters & setters
 
     public int getCustomerId() {
         return customerId;

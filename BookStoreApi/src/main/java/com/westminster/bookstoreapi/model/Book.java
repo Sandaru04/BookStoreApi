@@ -30,7 +30,7 @@ public class Book {
     }
 
     // Getters & Setters
-    // (Generate these using your IDE)
+    
 
     public int getId() {
         return id;
